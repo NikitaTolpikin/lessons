@@ -1,3 +1,7 @@
+def print_buy(name):
+    print(f'Buy {name}')
+
+
 def print_hi(name):
     print(f'Hi, {name}')
 
